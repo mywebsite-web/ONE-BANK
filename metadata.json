@@ -1,0 +1,6 @@
+{
+  "name": "OneBank by Sterling",
+  "description": "Digital mobile banking experience for OneBank by Sterling with Naira account management, instant transfers, bank success rate telemetry, and official payment receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

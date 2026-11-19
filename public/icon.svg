@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FFFFFF" />
+  <circle cx="256" cy="210" r="110" fill="#D92027" />
+  <circle cx="294" cy="172" r="32" fill="#FFFFFF" />
+  <text x="256" y="420" text-anchor="middle" font-family="Plus Jakarta Sans, Arial, sans-serif" font-weight="800" font-size="82">
+    <tspan fill="#D92027">One</tspan><tspan fill="#808285" font-weight="500">Bank</tspan>
+  </text>
+</svg>
